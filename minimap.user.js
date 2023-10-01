@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        r/place MLP Minimap
+// @name        Maneplace Minimap 23
 // @description Minimap overlay and automatic selection of pixel + color for r/place
 // @namespace   https://place.equestria.dev/
 // @author      r/place MLP Minimap Authors
